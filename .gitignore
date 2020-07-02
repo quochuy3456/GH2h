@@ -6,3 +6,4 @@ locale/*/LC_MESSAGES/django.mo
 .sass-cache/
 .coverage
 .tox
+.sqlite3
